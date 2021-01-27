@@ -1,0 +1,4 @@
+<List>
+   <object class="ru.sfedu.hospitalityNetwork.model.Response" idOffer="51912f60-ae30-4e51-a197-f5bc91cad805" idUser="fdde7ac7-eb95-400c-9a02-d3c78122c635" idResponse="a85a3af9-24fb-4fda-80bf-ebc27ac04560"/>
+   <object class="ru.sfedu.hospitalityNetwork.model.Response" idOffer="51912f60-ae30-4e51-a197-f5bc91cad805" idUser="dc8fb144-b8fb-4bbe-b364-b32e9af71f74" idResponse="2de6ae11-2331-414a-9118-b5509be6c281"/>
+</List>

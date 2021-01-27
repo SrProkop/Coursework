@@ -1,0 +1,4 @@
+<List>
+   <object class="ru.sfedu.hospitalityNetwork.model.Comment" comment="Perfect user" idComment="cedafbb4-5fae-435f-b1b8-947fdabfd079" rating="PERFECT" idUserFrom="df2c4e99-c5b6-4ca1-a5b9-9b5358f57c06" idUserTo="e1b9d28a-58ff-472b-813c-67ad6afc0f59"/>
+   <object class="ru.sfedu.hospitalityNetwork.model.Comment" comment="Good user" idComment="68807c24-dc78-4201-9826-3e78cfd058e5" rating="GOOD" idUserFrom="dc8fb144-b8fb-4bbe-b364-b32e9af71f74" idUserTo="e1b9d28a-58ff-472b-813c-67ad6afc0f59"/>
+</List>

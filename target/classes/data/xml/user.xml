@@ -1,0 +1,29 @@
+<List>
+   <object class="ru.sfedu.hospitalityNetwork.model.User" name="Ivanov Ivan Ivanovich" country="Russia" idUser="fdde7ac7-eb95-400c-9a02-d3c78122c635" city="Moscow">
+      <ListComment class="java.util.ArrayList"/>
+   </object>
+   <object class="ru.sfedu.hospitalityNetwork.model.User" name="Ivanov Ivan Ivanovich" country="Russia" idUser="dc8fb144-b8fb-4bbe-b364-b32e9af71f74" city="Moscow">
+      <ListComment class="java.util.ArrayList"/>
+   </object>
+   <object class="ru.sfedu.hospitalityNetwork.model.User" name="Ivanov Ivan Ivanovich" country="Russia" idUser="df2c4e99-c5b6-4ca1-a5b9-9b5358f57c06" city="Moscow">
+      <ListComment class="java.util.ArrayList"/>
+   </object>
+   <object class="ru.sfedu.hospitalityNetwork.model.User" name="Petrov Petr Petrovich" country="Japan" idUser="e1b9d28a-58ff-472b-813c-67ad6afc0f59" city="Tokyo">
+      <ListComment class="java.util.ArrayList">
+         <Comment comment="Good user" idComment="68807c24-dc78-4201-9826-3e78cfd058e5" rating="GOOD" idUserFrom="dc8fb144-b8fb-4bbe-b364-b32e9af71f74" idUserTo="e1b9d28a-58ff-472b-813c-67ad6afc0f59"/>
+         <Comment comment="Perfect user" idComment="cedafbb4-5fae-435f-b1b8-947fdabfd079" rating="PERFECT" idUserFrom="df2c4e99-c5b6-4ca1-a5b9-9b5358f57c06" idUserTo="e1b9d28a-58ff-472b-813c-67ad6afc0f59"/>
+      </ListComment>
+      <Offer class="ru.sfedu.hospitalityNetwork.model.OfferHost" name="I will gladly welcome you" country="Japan" idOffer="51912f60-ae30-4e51-a197-f5bc91cad805" idUser="e1b9d28a-58ff-472b-813c-67ad6afc0f59" city="Tokyo" typeOffer="true" personalMeeting="true" houseType="ROOM" addressHouse="Street Meecheeline h.77">
+         <listResponse class="java.util.ArrayList">
+            <Response idOffer="51912f60-ae30-4e51-a197-f5bc91cad805" idUser="fdde7ac7-eb95-400c-9a02-d3c78122c635" idResponse="a85a3af9-24fb-4fda-80bf-ebc27ac04560"/>
+            <Response idOffer="51912f60-ae30-4e51-a197-f5bc91cad805" idUser="dc8fb144-b8fb-4bbe-b364-b32e9af71f74" idResponse="2de6ae11-2331-414a-9118-b5509be6c281"/>
+         </listResponse>
+      </Offer>
+   </object>
+   <object class="ru.sfedu.hospitalityNetwork.model.User" name="Ivanov Ivan Ivanovich" country="Russia" idUser="f093ab82-0f20-47b9-9f0a-11e5cf194c8a" city="Moscow">
+      <ListComment class="java.util.ArrayList"/>
+   </object>
+   <object class="ru.sfedu.hospitalityNetwork.model.User" name="Alex" country="Russia" idUser="b3b646ae-2c49-4591-9e50-bb46bd79c8ea" city="Moscow">
+      <ListComment class="java.util.ArrayList"/>
+   </object>
+</List>
